@@ -1,14 +1,6 @@
 
-    <head>
-        <title>Simple Image Gallery</title>
-        <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"/>
-        <link rel="stylesheet" type="text/css" media="all" href="css/reset.css" />
-        <link rel="stylesheet" type="text/css" media="all" href="css/text.css" />
-        <link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
-        <link rel="stylesheet" type="text/css" media="all" href="css/lightbox.css" />
-    </head>
     
-            <div id="content">
+            
                 <table cols="3" class="gallery">
                     <tr>
                         <td class="oneimage">
@@ -23,6 +15,6 @@
                     </tr>
                 </table>
                 <h1>This is just a simple image gallery :)</h1>
-                <p>The images above are the three most recently posted.wa wa</p>
-            </div>
+                <p>The images above are the three most recently posted.djfhsjfsdkj</p>
+            
             
