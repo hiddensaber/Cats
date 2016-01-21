@@ -1,14 +1,4 @@
 
-    <head>
-        <title>About This Gallery</title>
-        <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"/>
-        <link rel="stylesheet" type="text/css" media="all" href="css/reset.css" />
-        <link rel="stylesheet" type="text/css" media="all" href="css/text.css" />
-        <link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
-        <link rel="stylesheet" type="text/css" media="all" href="css/lightbox.css" />
-    </head>
-    
-            <div id="content">
                 <h1>About This Site</h1>
                 <p>This is a really simple image gallery, intended as more than a "hello world" example'
                     to be implemented using different MVC frameworks, so they can be compared.</p>
@@ -23,5 +13,5 @@
             </div>
             <div id="footer" class="span12">
                 Copyright &copy; 2014,  <a href="mailto:someone@somewhere.com">Me</a>.
-            </div>
+         
         

@@ -1,14 +1,5 @@
 
-    <head>
-        <title>The Gallery</title>
-        <meta HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8"/>
-        <link rel="stylesheet" type="text/css" media="all" href="css/reset.css" />
-        <link rel="stylesheet" type="text/css" media="all" href="css/text.css" />
-        <link rel="stylesheet" type="text/css" media="all" href="css/style.css" />
-        <link rel="stylesheet" type="text/css" media="all" href="css/lightbox.css" />
-    </head>
-   
-            <div id="content">
+    
                 <table cols="3" class="gallery">
                     <tr>
                         <td class="oneimage">
@@ -79,5 +70,5 @@
                     </tr>
                 </table>
                 <h1>The image gallery, complete :)</h1>
-            </div>
+           
             
