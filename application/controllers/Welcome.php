@@ -8,7 +8,9 @@ class Welcome extends CI_Controller {
      * Index Page for this controller.
      */
     public function index() {
-        $this->load->view('welcome');
+        $this->data['pagebody'] = 'welcome';
+        $this-> render();
+        $autoload['helper'] =array('common', 'url');
     }
 
 }
